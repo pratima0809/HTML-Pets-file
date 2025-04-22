@@ -1,0 +1,44 @@
+h1{
+    text-align: center;
+    font-size: 250%;
+}
+body{
+    text-align: center;
+    background-image: url('/Dogs/Website_bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+p{
+    font-size: larger;
+    border: 1.5px solid black;
+    border-radius: 4%;
+    border-width: 50%;
+    background-color: rgb(255, 208, 255);
+    border-width: 50%;
+    padding: 1px solid white
+
+}
+div.Container{
+    text-align: center;
+}
+div.section{
+    text-align: center;
+}
+ol{
+    background-color: rgb(255, 208, 255);
+    border: 1.5px solid black;
+    border-radius: 10%;
+    display: inline-block;
+    text-align: left;
+}
+
+table,td,th{
+    background-color:rgb(255, 208, 255);
+    font-size: larger;
+    width: 50%;
+    margin-left: 25%;
+    border: 2px solid black;
+    border-collapse: collapse;
+                
+}
