@@ -1,0 +1,46 @@
+h1{
+    text-align: center;
+    font-size: 250%;
+}
+body{
+    text-align: center;
+    background-image: url('/Dog/bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+img{
+    border-radius: 5%;
+}
+p{
+    font-size: larger;
+    border: 1.5px solid black;
+    border-radius: 4%;
+    border-width: 50%;
+    background-color: rgb(110, 207, 232);
+    border-width: 50%;
+    padding: 1px solid white
+
+}
+div.Container{
+    text-align: center;
+}
+div.section{
+    text-align: center;
+}
+ol{
+    background-color: rgb(110, 207, 232);
+    border: 1.5px solid black;
+    border-radius: 10%;
+    display: inline-block;
+    text-align: left;
+}
+
+table,td,th{
+    background-color: rgb(110, 207, 232);
+    font-size: larger;
+    width: 50%;
+    margin-left: 25%;
+    border: 2px solid black;
+    border-collapse: collapse;
+                
+}
